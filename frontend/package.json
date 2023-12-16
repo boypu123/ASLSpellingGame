@@ -1,0 +1,21 @@
+{
+  "name": "aslspellinggame",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.15.0",
+    "@tensorflow/tfjs-tflite": "^0.0.1-alpha.10",
+    "axios": "^1.6.2",
+    "vue": "^3.3.10"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.1",
+    "vite": "^5.0.5"
+  }
+}

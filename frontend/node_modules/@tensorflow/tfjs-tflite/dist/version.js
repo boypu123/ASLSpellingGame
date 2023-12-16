@@ -1,0 +1,5 @@
+/** @license See the LICENSE file. */
+// This code is auto-generated, do not modify this file!
+const version = '0.0.1-alpha.10';
+export { version };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidmVyc2lvbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL3RmanMtdGZsaXRlL3NyYy92ZXJzaW9uLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLHFDQUFxQztBQUVyQyx3REFBd0Q7QUFDeEQsTUFBTSxPQUFPLEdBQUcsZ0JBQWdCLENBQUM7QUFDakMsT0FBTyxFQUFDLE9BQU8sRUFBQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqIEBsaWNlbnNlIFNlZSB0aGUgTElDRU5TRSBmaWxlLiAqL1xuXG4vLyBUaGlzIGNvZGUgaXMgYXV0by1nZW5lcmF0ZWQsIGRvIG5vdCBtb2RpZnkgdGhpcyBmaWxlIVxuY29uc3QgdmVyc2lvbiA9ICcwLjAuMS1hbHBoYS4xMCc7XG5leHBvcnQge3ZlcnNpb259O1xuIl19
