@@ -49,7 +49,7 @@ function Classify(rawFeatures) {
    userInput: rawFeatures
  })
  .then(response => {
-   let classifiedResult = JSON.parse(response.data.final); // Assuming the recognized word is returned in response.data
+   let classifiedResult = JSON.parse(response.data.final); 
    console.log(classifiedResult['results']);
    const maxLabel = FindLargest(classifiedResult['results']);
    console.log(maxLabel);
@@ -104,7 +104,6 @@ function capturePhoto() {
      }
      features.push(strHex);
    }
-   // You can now use the captured image data as needed
    console.log(features);
    let rawFe = features.join(', ')
    console.log(rawFe)
