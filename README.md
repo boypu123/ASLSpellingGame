@@ -1,6 +1,8 @@
 # ASLSpellingGame
 
-This game is a final project of PACSAR-201005, Introduction to Machine Learning and Neural Networks course. By Group 1. <br>
+This game is a final project of PACSAR-201005, Introduction to Machine Learning and Neural Networks course. By Group 1. <be>
+
+!IMPORTANT: PLEASE USE THIS WITH THE BACKEND API. https://github.com/boypu123/ASLAlphabetDetection
 
 ASL Spelling Game: 
 - The game is based on the American Sign Language (ASL) alphabet.
@@ -16,9 +18,9 @@ The project is a game in which the users can practice the basic alphabet gesture
 Sadly, there are still many sign languages that do not have a lot of publicly available datasets.
 
 ## Methodology
-We used Edge Impulse, a low code online machine learning platform, to build a machine learning model that can recognize the basic alphabet gestures of American Sign Language. We used MobileNet V2 96x96 0.25 because it has the most outstanding performance, ensuring that the model is not overfitting while maintaining the accuracy. <br>
+We used Edge Impulse, a low-code online machine-learning platform, to build a machine-learning model that can recognize the basic alphabet gestures of American Sign Language. We used MobileNet V2 96x96 0.25 because it has the most outstanding performance, ensuring that the model is not overfitting while maintaining accuracy. <br>
 
-We exported this model and connects it with Node.js to build a web application. <br>
+We exported this model and connected it with Node.js to build a web application. <br>
 
 Then, we used Vue to build the frontend interface. <br>
 
@@ -34,7 +36,7 @@ Clone this repository using git. <br>
 
 ## Run
 
-First, ``cd backend`` to the backend folder. Then run ``node server.js`` to run the backend server program<br>
+First, run the backend program. <br>
 
 Then, open another terminal and ``cd frontend`` to the frontend folder. Then run ``npm run dev`` to run the frontend interface. Next, click the link provided.
 
