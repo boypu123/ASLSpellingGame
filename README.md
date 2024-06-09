@@ -2,7 +2,7 @@
 
 This game is a final project of PACSAR-201005, Introduction to Machine Learning and Neural Networks course. By Group 1. <be>
 
-!IMPORTANT: PLEASE USE THIS WITH THE BACKEND API. https://github.com/boypu123/ASLAlphabetDetection
+IMPORTANT!: PLEASE USE THIS WITH THE BACKEND API. https://github.com/boypu123/ASLAlphabetDetection
 
 ASL Spelling Game: 
 - The game is based on the American Sign Language (ASL) alphabet.
@@ -44,7 +44,7 @@ Then, open another terminal and ``cd frontend`` to the frontend folder. Then run
 Guoxiang Ran, Southeast University, China; https://github.com/Squincat <br>
 Hongwen Pu, Dulwich College (Singapore), Singapore; https://github.com/boypu123 <br>
 Minghua Ying, Southeast University, China; https://github.com/ahuahaha <br>
-Raykio (Keyi) Yi, Dulwich College (Suzhou), China; https://github.com/Raykxia
+Raykio (Keyi) Yi, Dulwich International High School Suzhou, China; https://github.com/Raykxia
 
 
 ## Acknowledgement
